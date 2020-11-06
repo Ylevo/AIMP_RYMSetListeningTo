@@ -1,4 +1,4 @@
-# AIMP_SetListeningTo
+# AIMP_RYMSetListeningTo
 AIMP plugin for the new feature "Listening To" on rateyourmusic.com.
 
 **You have to enter your RYM authentification token in the config.xml file included in the release for the plugin to work**. 
