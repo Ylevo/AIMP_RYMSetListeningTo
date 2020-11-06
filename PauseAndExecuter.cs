@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace AIMP_SetListeningTo
+namespace AIMP_RYMSetListeningTo
 {
     public static class PauseAndExecuter
     {

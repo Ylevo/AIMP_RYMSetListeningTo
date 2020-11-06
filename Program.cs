@@ -15,7 +15,7 @@ using System.Threading;
 using System.Xml.Serialization;
 using System.Reflection;
 
-namespace AIMP_SetListeningTo
+namespace AIMP_RYMSetListeningTo
 {
     public delegate ActionResultType HookMessage(AimpCoreMessageType message, int param1, int param2);
     public class MessageHook : IAimpMessageHook

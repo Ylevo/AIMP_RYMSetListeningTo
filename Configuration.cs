@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Serialization;
 
-namespace AIMP_SetListeningTo
+namespace AIMP_RYMSetListeningTo
 {
     [XmlRoot(ElementName = "Configuration")]
     public class Configuration

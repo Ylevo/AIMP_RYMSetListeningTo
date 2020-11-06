@@ -8,7 +8,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>AIMP_SetListeningTo</RootNamespace>
-    <AssemblyName>aimp_setListeningTo</AssemblyName>
+    <AssemblyName>aimp_rymSetListeningTo</AssemblyName>
     <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

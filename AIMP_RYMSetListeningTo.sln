@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIMP_SetListeningTo", "AIMP_SetListeningTo.csproj", "{0BE4B5ED-5B8A-44C9-A411-05025603C8B8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIMP_RYMSetListeningTo", "AIMP_RYMSetListeningTo.csproj", "{0BE4B5ED-5B8A-44C9-A411-05025603C8B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
